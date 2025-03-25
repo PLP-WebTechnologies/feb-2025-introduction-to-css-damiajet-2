@@ -1,0 +1,17 @@
+* {
+    background-color: black;
+    color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+tr.head th{
+    border: 1px solid grey;
+    background-color: rgb(46, 46, 46);
+}
+th, td{
+    border: 1px solid grey;
+}
